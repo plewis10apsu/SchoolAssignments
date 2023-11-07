@@ -1,0 +1,4 @@
+Sample contentLanguage,Word,Meaning
+English,Hello,Greeting
+Spanish,Hola,Saludo
+French,Bonjour,Greeting
